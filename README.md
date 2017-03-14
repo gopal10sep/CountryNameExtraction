@@ -1,0 +1,2 @@
+# CountryNameExtraction
+This project takes a dataset which has the list of paper published for a certain topic. The universities/institution name of the author is also given in the data. The program inputs this data through an spreadsheet and then extracts out the country name from the universities name. In the end, it plots a graph of the frequency of the paper published to the nation of the author.  The code makes use of pycountry and geograpy packages in python, in order to extract country name out of the given data.
